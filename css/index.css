@@ -232,6 +232,7 @@ a {
   align-items: center;
    font-family: "Merriweather", sans-serif;
   font-size: 30px;
+  padding-top: 10px;
 }
 .box_a{
     background-image: url(../img/new-arrivals-bg.jpg);
