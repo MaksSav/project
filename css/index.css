@@ -543,6 +543,7 @@ color: var(--fourth-color);
     }
     .minibox{
         width: 640px;
+       justify-content: center;
     }
     .video_container{
         width: 640px;
@@ -561,6 +562,12 @@ color: var(--fourth-color);
     }
     .main_right{
         padding: 0;
+    }
+    body{
+        width: 640px;
+    }
+    .main_box{
+      justify-content: center;
     }
 
 }
